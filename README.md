@@ -12,7 +12,7 @@
 
 Estimate of time needed to complete: 6hr
 
-Start time: 10:31AM
+Start time: 11:28AM
 
 Finish time: _____
 
