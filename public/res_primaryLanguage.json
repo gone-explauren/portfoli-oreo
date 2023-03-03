@@ -1,125 +1,125 @@
 {
-    "basic_info": {
-      "description_header": "Hi there!",
-      "description": "I'm Laurel Perkins and I am a Full-Stack JavaScript dev-in-training 🧠✨",
-      "section_name": {
-        "about": "About me",
-        "projects": "Projects",
-        "skills": "Skills",
-        "experience": "Experience"
-      }
+  "basic_info": {
+    "description_header": "Hi there!",
+    "description": "I'm Laurel Perkins and I am a Full-Stack JavaScript dev-in-training 🧠✨",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "Space Monkeys",
+      "startDate": "2023",
+      "description": "My final project for Code-201, my team and I built a minimally interactive racing game which features a form to assign an avatar to the user and a leaderboard which renders high scores.",
+      "images": [
+        "images/portfolio/space-monkey/spacemonkey.jpg"
+      ],
+      "url": "https://github.com/gone-explauren/space-monkey",
+      "technologies": [
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML"
+        }
+      ]
     },
-    "projects": [
-      {
-        "title": "Space Monkeys",
-        "startDate": "2023",
-        "description": "My final project for Code-201, my team and I built a minimally interactive racing game which features a form to assign an avatar to the user and a leaderboard which renders high scores.",
-        "images": [
-          "images/portfolio/space-monkey/spacemonkey.jpg"
-        ],
-        "url": "https://github.com/gone-explauren/space-monkey",
-        "technologies": [
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          },
-          {
-            "class": "devicon-css3-plain",
-            "name": "CSS"
-          },
-          {
-            "class": "devicon-html5-plain",
-            "name": "HTML"
-          }
-        ]
-      },
-      {
-        "title": "Gallery of Honred Beasts",
-        "startDate": "2023",
-        "description": "My first project for Code-301, a website that allows the user to favorite an image of their favorite horned beast. This application also allows the user to filter the beasts shown on the page by their number of horns.",
-        "images": [
-          "images/portfolio/gallery-of-horns/hornedbeasts.jpg",
-          "images/portfolio/gallery-of-horns/hornedbeasts2.jpg"
-        ],
-        "url": "https://github.com/gone-explauren/gallery-of-horns",
-        "technologies": [
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          },
-          {
-            "class": "devicon-css3-plain",
-            "name": "CSS"
-          },
-          {
-            "class": "devicon-html5-plain",
-            "name": "HTML"
-          },
-          {
-            "class": "devicon-bootstrap-plain",
-            "name": "Bootstrap"
-          }
-        ]
-      },
-      {
-        "title": "Code-301 Final Project",
-        "startDate": "2023",
-        "description": "Placeholder for Code-301 final project :)",
-        "images": [
-          "",
-          ""
-        ],
-        "url": "",
-        "technologies": [
-          {
-            "class": "",
-            "name": ""
-          },
-          {
-            "class": "",
-            "name": ""
-          },
-          {
-            "class": "",
-            "name": ""
-          }
-        ]
-      }
-    ],
-    "experience": [
-      {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
-        "mainTech": [
-          "Angular 8/9/10"
-        ],
-        "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
-        ]
-      },
-      {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
-        "mainTech": [
-          "Angular 7/8"
-        ],
-        "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
-        ]
-      }
-    ]
-  }
+    {
+      "title": "Gallery of Honred Beasts",
+      "startDate": "2023",
+      "description": "My first project for Code-301, a website that allows the user to favorite an image of their favorite horned beast. This application also allows the user to filter the beasts shown on the page by their number of horns.",
+      "images": [
+        "images/portfolio/gallery-of-horns/hornedbeasts.jpg",
+        "images/portfolio/gallery-of-horns/hornedbeasts2.jpg"
+      ],
+      "url": "https://github.com/gone-explauren/gallery-of-horns",
+      "technologies": [
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML"
+        },
+        {
+          "class": "devicon-bootstrap-plain",
+          "name": "Bootstrap"
+        }
+      ]
+    },
+    {
+      "title": "Code-301 Final Project",
+      "startDate": "2023",
+      "description": "Placeholder for Code-301 final project :)",
+      "images": [
+        "",
+        ""
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "",
+          "name": ""
+        },
+        {
+          "class": "",
+          "name": ""
+        },
+        {
+          "class": "",
+          "name": ""
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Code Fellows",
+      "title": "Software Development Engineering Studen",
+      "years": "01.2023 - present",
+      "mainTech": [
+        "JavaScript"
+      ],
+      "technologies": [
+        "JavaScript",
+        "Bootstrap"
+      ]
+    },
+    {
+      "company": "Whole Foods Market",
+      "title": "Customer Service Associate Team Lead",
+      "years": "10.2017 - 01.2023",
+      "mainTech": [
+        ""
+      ],
+      "technologies": [
+        ""
+      ]
+    },
+    {
+      "company": "United States Navy",
+      "title": "Avionics Technician",
+      "years": "06.2012 - 06.2016",
+      "mainTech": [
+        ""
+      ],
+      "technologies": [
+        ""
+      ]
+    }
+  ]
+}
