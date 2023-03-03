@@ -11,70 +11,77 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Space Monkeys",
+        "startDate": "2023",
+        "description": "My final project for Code-201, my team and I built a minimally interactive racing game which features a form to assign an avatar to the user and a leaderboard which renders high scores.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/space-monkey/spacemonkey.jpg"
+        ],
+        "url": "https://github.com/gone-explauren/space-monkey",
+        "technologies": [
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          }
+        ]
+      },
+      {
+        "title": "Gallery of Honred Beasts",
+        "startDate": "2023",
+        "description": "My first project for Code-301, a website that allows the user to favorite an image of their favorite horned beast. This application also allows the user to filter the beasts shown on the page by their number of horns.",
+        "images": [
+          "images/portfolio/gallery-of-horns/hornedbeasts.jpg",
+          "images/portfolio/gallery-of-horns/hornedbeasts2.jpg"
+        ],
+        "url": "https://github.com/gone-explauren/gallery-of-horns",
+        "technologies": [
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+          }
+        ]
+      },
+      {
+        "title": "Code-301 Final Project",
+        "startDate": "2023",
+        "description": "Placeholder for Code-301 final project :)",
+        "images": [
+          "",
+          ""
         ],
         "url": "",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "",
+            "name": ""
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "",
+            "name": ""
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
-        "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          }
-        ]
-      },
-      {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
-        "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "",
+            "name": ""
           }
         ]
       }
