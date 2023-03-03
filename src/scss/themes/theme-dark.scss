@@ -10,10 +10,10 @@ body[data-theme="dark"] {
       color: white;
    }
 
-   .header-icon {
-      color: #3C342C;
-      opacity: 0.8;
-   }
+   // .header-icon {
+   //    color: #3C342C;
+   //    opacity: 0.8;
+   // }
 
    .slider-image {
       border: 5px solid #8C8C8C;
@@ -33,9 +33,9 @@ body[data-theme="dark"] {
    }
 
    header {
-      background-color: #494949;
+      background-color: rgb(105, 3, 51);
       h1 {
-         color: white;
+         color: rgb(34, 34, 34);
       }
    }
 
