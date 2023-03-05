@@ -38,7 +38,7 @@ header {
 	-webkit-background-size: cover;
 	text-align: center;
 	overflow: hidden;
-	background-color: #e9d5a1;
+	background-image: url("background-img.jpg");
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -59,9 +59,21 @@ header .nav {
 
 @keyframes octocat-wave {0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}@media (max-width:500px){.github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}}
 
-.language-icon {
-	font-size: 50px;
-	cursor: pointer;
+// .language-icon {
+// 	font-size: 50px;
+// 	cursor: pointer;
+// }
+
+.nav a {
+	color: mediumvioletred;
+}
+
+.nav a:hover {
+	color: rgb(124, 60, 167);
+}
+
+.nav a:focus {
+	color: indigo;
 }
 
 .project-date {
@@ -70,7 +82,7 @@ header .nav {
 	padding: 8px 15px 2px 15px;
 	position: relative;
 	z-index: -500;
-	border-top: 5px solid #696969;
+	border-top: 5px solid white;
 	border-radius: 0 0 5px 5px;
 	background-color: #696969;
 	color: white;
@@ -120,7 +132,7 @@ header h1 {
 }
 
 #about {
-	background: #fff;
+	background: rgb(187, 154, 190);
 	overflow: hidden;
 }
 
@@ -231,7 +243,7 @@ header h1 {
 }
 
 #resume {
-	background: #efe1bd;
+	background: #a743e9;
 }
 
 .experience-icon {
@@ -353,7 +365,7 @@ header h1 {
 }
 
 #portfolio {
-	background: #efe1bd;
+	background: pink;
 	padding-bottom: 5%;
 }
 
@@ -389,7 +401,7 @@ header h1 {
 }
 
 #skills {
-	background: #1F1F1F;
+	background: rgb(233, 137, 233);
 	min-height: 200px;
 	width: 100%;
 	overflow: hidden;
@@ -414,7 +426,7 @@ header h1 {
 }
 
 footer {
-	background: #1F1F1F;
+	background: #382f5f;
 	min-height: 100px;
 	width: 100%;
 	overflow: hidden;
